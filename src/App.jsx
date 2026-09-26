@@ -9,8 +9,8 @@ export default function App() {
   return (
     <>
       <header>
-        <h1>Solicitudes</h1>
-        <p className="subtitle">Lo que llegó al área esta semana</p>
+        <h1>Gestión de Peticiones- COVIMAR</h1>
+        <p className="subtitle">Todas las PQRS</p>
       </header>
 
       <main>
@@ -23,7 +23,7 @@ export default function App() {
       </main>
 
       <footer>
-        <p id="credits">Hecho por Tu Nombre</p>
+        <p id="credits">Hecho por Área Jurídica</p>
       </footer>
     </>
   );
